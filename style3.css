@@ -1,0 +1,64 @@
+*, html {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+   
+    background-color: #cebb76;
+    width: 320px;
+    padding: 35px; 
+    background-image: url(img/bg-2.jpg);
+    background-size: cover;
+   
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    margin-top: -20px;
+    margin-bottom: -45px;
+    margin-left: -125px;
+    border-style: ridge;  
+    background-color: rgb(255, 0, 0);  
+    border-color: rgb(239, 239, 11);
+}
+
+
+.logo {
+    margin-top: -30px;
+    margin-right: -240px;
+    margin-left: 300px;
+    padding: 1px;
+    margin-bottom: -50px;
+    width: auto;
+    height: 100px;
+
+}
+
+.Ingredients {
+    margin-left: -460px;
+    height: 500px;
+    border-style: ridge;
+    border-color:rgb(242, 255, 0);
+    background-color: rgb(234, 28, 28);
+    padding: 15px;
+    margin-top: 50px;
+    text-align: left;
+    font-size: 22px;
+    margin-right: 390px;
+}
+
+.Direction {
+    text-align: left;
+    margin-right: -300px;
+    margin-top: -500px;
+    margin-left: -120px;
+    border-style: ridge;
+    border-color: rgb(242, 255, 0);
+    background-color: rgb(234, 28, 28);
+    padding: 15px;
+    height: 500px;
+    font-size: 22px;
+}
